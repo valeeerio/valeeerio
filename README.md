@@ -101,7 +101,3 @@ Lavoro nel reparto IT di un'azienda di logistica come **Junior System Administra
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valeeerio&layout=compact&theme=dark&hide_border=true" height="165" />
 </p>
-
----
-
-<p align="center"><i>📫 Contattami: valeriomortella03@gmail.com</i></p>

@@ -94,5 +94,5 @@ Lavoro nel reparto IT di un'azienda di logistica come **Junior System Administra
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=valeeerio&show_icons=true&theme=dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=valeeerio&show_icons=true&theme=dark&hide_border=true" height="165" />
 </p>

@@ -2,7 +2,7 @@
 <h3 align="center">Junior Software Developer | Junior System Administrator | AI-Native Workflow</h3>
 
 <p align="center">
-  📍 Bitetto, Puglia, Italia &nbsp;|&nbsp; 🎓 Ingegneria Informatica @ UniMercatorum
+  🎓 Ingegneria Informatica @ UniMercatorum
 </p>
 
 <p align="center">
@@ -13,12 +13,6 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
-
----
-
-### 🧭 Chi sono
-
-Lavoro nel reparto IT di un'azienda di logistica come **Junior System Administrator**, dopo un'esperienza come **Junior Software Developer** in Lutech S.p.A. Parallelamente porto avanti progetti personali — webapp e app mobile — e sto integrando un workflow **AI-native** basato su Claude nel mio modo di sviluppare e gestire i sistemi.
 
 ---
 

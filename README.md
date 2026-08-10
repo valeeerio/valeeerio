@@ -69,7 +69,7 @@
 ### 📌 Progetti in evidenza
 
 - **[buts](https://github.com/valeeerio/buts)** — App personale di gestione buste paga (Flutter, iOS-first, locale-first)
-- **[Gioielleria](https://github.com/valeeerio/Gioielleria)** — Sito Vetrina per attività autonoma
+- **[Gioielleria](https://github.com/valeeerio/Gioielleria)** — Sito vetrina per attività autonoma
 - **[pants-manager](https://github.com/valeeerio/pants-manager)** — Gestionale
 
 ---

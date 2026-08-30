@@ -1,4 +1,3 @@
-<h1 align="center">Ciao, sono Valerio 👋</h1>
 <h3 align="center">Junior Software Developer | Junior System Administrator | AI-Native Workflow</h3>
 
 <p align="center">

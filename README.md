@@ -60,22 +60,3 @@
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
-
----
-
-### 📌 Progetti in evidenza
-
-- **[buts](https://github.com/valeeerio/buts)** — App personale di gestione buste paga (Flutter, iOS-first, locale-first)
-- **[Gioielleria](https://github.com/valeeerio/Gioielleria)** — Sito vetrina per attività autonoma
-- **[pants-manager](https://github.com/valeeerio/pants-manager)** — Gestionale
-
----
-
-### 📜 Certificazioni
-
-- Zabbix Application and Network Monitoring — *Udemy, 2026*
-- Claude 101 — *Anthropic, 2026*
-- Introduction to Claude Cowork — *Anthropic, 2026*
-- Introduction to Agent Skills — *Anthropic, 2026*
-- Introduction to Subagents — *Anthropic, 2026*
-- Claude Code 101 — *Anthropic, 2026*
